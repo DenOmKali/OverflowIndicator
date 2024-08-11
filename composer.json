@@ -1,0 +1,13 @@
+{
+    "name": "denomkali/overflow-indicator",
+    "description": "A JavaScript library to highlight overflowing tabs.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "denomkali\\OverflowIndicator\\": "src/"
+        }
+    },
+    "extra": {
+        "assets-path": "src/javascript"
+    }
+}
